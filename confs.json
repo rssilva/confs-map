@@ -1,0 +1,22 @@
+[
+  {
+    "name": "O’Reilly Design Conference",
+    "city": "San Francisco",
+    "country": "United States",
+    "lat": 37.7552402,
+    "lng": -122.4274317,
+    "dates": ["21/01/2016"],
+    "tags": ["design"],
+    "link": "http://conferences.oreilly.com/design/ux-interaction-iot-us?cmp=ot-data-confreg-home-dsca16_eventlisting"
+  },
+  {
+    "name": "LAUNCH Consumer IoT Summit",
+    "city": "Hong Kong",
+    "country": "China",
+    "lat": 22.277265,
+    "lng": 114.181287,
+    "dates": ["27/01/2016", "28/01/2016"],
+    "tags": ["svg"],
+    "link": "launch.brinc.io"
+  }
+]
