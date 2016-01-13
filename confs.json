@@ -58,5 +58,95 @@
     "dates": ["28/01/2016", "29/01/2016"],
     "tags": ["phonegap", "mobile"],
     "link": "http://pgday.phonegap.com/"
+  },
+  {
+    "name": "Agile Content Conf 2016",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.521473,
+    "lng": -0.122231,
+    "dates": ["01/02/2016", "02/02/2016"],
+    "tags": ["agile"],
+    "link": "https://2016.agilecontentconf.com/"
+  },
+  {
+    "name": "Topconf Linz 2016",
+    "city": "Linz",
+    "country": "Austria",
+    "lat": 48.290490,
+    "lng": 14.291060,
+    "dates": ["02/02/2016", "03/02/2016"],
+    "tags": [""],
+    "link": "http://topconf.com/linz-2016/"
+  },
+  {
+    "name": "2016 UXDEVSummit Conference",
+    "city": "Fort Lauderdale",
+    "country": "United States",
+    "lat": 26.121985,
+    "lng": -80.136586,
+    "dates": ["04/02/2016", "05/02/2016", "06/02/2016"],
+    "tags": ["ux"],
+    "link": "http://uxdsummit.com"
+  },
+  {
+    "name": "Owner Summit",
+    "city": "Atlanta",
+    "country": "United States",
+    "lat": 33.719673,
+    "lng": -84.438468,
+    "dates": ["08/02/2016", "09/02/2016"],
+    "tags": [],
+    "link": "http://bureauofdigital.com/summits/owner/2016/"
+  },
+  {
+    "name": "JFokus 2016",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.329285,
+    "lng": 18.068627,
+    "dates": ["08/02/2016", "09/02/2016", "10/02/2016"],
+    "tags": [],
+    "link": "http://www.jfokus.se/jfokus/"
+  },
+  {
+    "name": "Forward 4 – Web Technology Summit",
+    "city": "San Francisco",
+    "country": "United States",
+    "lat": 37.7552402,
+    "lng": -122.4274317,
+    "dates": ["08/02/2016", "09/02/2016", "10/02/2016", "11/02/2016", "12/02/2016", "13/02/2016"],
+    "tags": [],
+    "link": "http://forwardjs.com/summit"
+  },
+  {
+    "name": "ConveyUX 2016",
+    "city": "Seattle",
+    "country": "United States",
+    "lat": 47.605302,
+    "lng": -122.331065,
+    "dates": ["09/02/2016", "10/02/2016", "11/02/2016"],
+    "tags": ["ux"],
+    "link": "http://conveyux.com/"
+  },
+  {
+    "name": "Webstock 2016",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "lat": -41.287027,
+    "lng": 174.776008,
+    "dates": ["09/02/2016", "10/02/2016", "11/02/2016", "12/02/2016"],
+    "tags": [],
+    "link": "http://www.webstock.org.nz/16/"
+  },
+  {
+    "name": "Lift Conference 2016",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.203414,
+    "lng": 6.143986,
+    "dates": ["10/02/2016", "11/02/2016", "12/02/2016"],
+    "tags": [],
+    "link": "http://liftconference.com/lift16"
   }
 ]
