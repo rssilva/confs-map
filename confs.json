@@ -18,5 +18,45 @@
     "dates": ["27/01/2016", "28/01/2016"],
     "tags": ["svg"],
     "link": "launch.brinc.io"
+  },
+  {
+    "name": "Awwwards Conference",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.378800,
+    "lng": 4.900451,
+    "dates": ["27/01/2016", "28/01/2016", "29/01/2016"],
+    "tags": ["design", "development", "ux"],
+    "link": "http://conference.awwwards.com/amsterdam-2016/"
+  },
+  {
+    "name": "A Day of REST",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.521473,
+    "lng": -0.122231,
+    "dates": ["28/01/2016"],
+    "tags": ["wordpress", "api", "rest"],
+    "link": "https://feelingrestful.com/"
+  },
+  {
+    "name": "VOXXED Days Berlin 2016",
+    "city": "Berlin",
+    "country": "Germany",
+    "lat": 52.519357,
+    "lng": 13.403638,
+    "dates": ["28/01/2016", "29/01/2016"],
+    "tags": [""],
+    "link": "https://voxxeddays.com/berlin16/"
+  },
+  {
+    "name": "PhoneGap Day US 2016",
+    "city": "Lehi",
+    "country": "United States",
+    "lat": 40.413345,
+    "lng": -111.868541,
+    "dates": ["28/01/2016", "29/01/2016"],
+    "tags": ["phonegap", "mobile"],
+    "link": "http://pgday.phonegap.com/"
   }
 ]

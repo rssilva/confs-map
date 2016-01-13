@@ -54,13 +54,26 @@
 
   function plotConfs (confs) {
     var marker;
+    var contentString;
 
     confs.forEach(function (conf) {
       marker = new google.maps.Marker({
         position: {lat: conf.lat, lng: conf.lng},
         map: map
-      })
+      });
+
+      addListener(conf, marker)
     });
+  }
+
+  function addListener (conf, marker) {
+    marker.addListener('click', function () {
+      var infowindow = new google.maps.InfoWindow({
+        content: conf.name
+      });
+
+      infowindow.open(map, marker);
+    })
   }
 
   function centerMap (lat, lng) {
