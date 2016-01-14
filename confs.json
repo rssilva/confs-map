@@ -148,5 +148,28 @@
     "dates": ["10/02/2016", "11/02/2016", "12/02/2016"],
     "tags": [],
     "link": "http://liftconference.com/lift16"
+  },
+  
+  {
+    "name": "PyTennessee",
+    "city": "Nashville",
+    "country": "United States of America",
+    "lat": 36.1036011,
+    "lng": -86.7626613,
+    "dates": ["02/06/2016", "02/07/2016"],
+    "tags": [],
+    "link": "http://pytennessee.org"
+  },
+  
+  {
+    "name": "Nodevember",
+    "city": "Nashville",
+    "country": "United States of America",
+    "lat": 36.1047832,
+    "lng": -86.8016304,
+    "dates": ["11/19/2016", "11/20/2016"],
+    "tags": [],
+    "link": "http://nodevember.org"
   }
 ]
+
