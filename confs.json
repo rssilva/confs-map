@@ -113,7 +113,7 @@
     "name": "Forward 4 – Web Technology Summit",
     "city": "San Francisco",
     "country": "United States of America",
-    "lat": 37.7552402,
+    "lat": 37.7652402,
     "lng": -122.4274317,
     "dates": ["08/02/2016", "09/02/2016", "10/02/2016", "11/02/2016", "12/02/2016", "13/02/2016"],
     "tags": [],
@@ -149,7 +149,6 @@
     "tags": [],
     "link": "http://liftconference.com/lift16"
   },
-  
   {
     "name": "PyTennessee",
     "city": "Nashville",
@@ -160,7 +159,6 @@
     "tags": [],
     "link": "http://pytennessee.org"
   },
-  
   {
     "name": "Nodevember",
     "city": "Nashville",
@@ -170,6 +168,155 @@
     "dates": ["11/19/2016", "11/20/2016"],
     "tags": [],
     "link": "http://nodevember.org"
+  },
+  {
+    "name": "FITC Tokyo 2016",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.7139403,
+    "lng": 139.7329073,
+    "dates": ["13/02/2016", "14/02/2016"],
+    "tags": [],
+    "link": "http://fitc.ca/"
+  },
+  {
+    "name": "DevNexus 2016",
+    "city": "Atlanta",
+    "country": "United States of America",
+    "lat": 33.719673,
+    "lng": -84.438468,
+    "dates": ["15/02/2016", "16/02/2016", "17/02/2016"],
+    "tags": ["java", "html5", "javascript"],
+    "link": "http://www.devnexus.com/"
+  },
+  {
+    "name": "Open Set Soul Edition 2016",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.554131,
+    "lng": 126.984046,
+    "dates": ["15/02/2016", "16/02/2016", "17/02/2016"],
+    "tags": [],
+    "link": "http://www.openset.nl/oskorea/opensetdutchdesignseoulsessions_en.html"
+  },
+  {
+    "name": "Mobile Growth Summit 2016",
+    "city": "San Francisco",
+    "country": "United States of America",
+    "lat": 37.7552402,
+    "lng": -122.4274317,
+    "dates": ["17/02/2016", "18/02/2016"],
+    "tags": [],
+    "link": "http://bit.ly/MobileGrowthSummit16"
+  },
+  {
+    "name": "Mobile Trends Conference 2016",
+    "city": "Krakow",
+    "country": "Poland",
+    "lat": 50.062553,
+    "lng": 19.943066,
+    "dates": ["17/02/2016", "18/02/2016", "19/02/2016"],
+    "tags": ["mobile"],
+    "link": "http://2016.mobiletrends.pl/en/"
+  },
+  {
+    "name": "Bulgaria Web Summit 2016",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "lat": 42.697365,
+    "lng": 23.321190,
+    "dates": ["20/02/2016"],
+    "tags": [],
+    "link": "bulgariawebsummit.com"
+  },
+  {
+    "name": "The Rolling Scopes Conference",
+    "city": "Minsk",
+    "country": "Bielarus",
+    "lat": 53.904038,
+    "lng": 27.556514,
+    "dates": ["20/02/2016", "21/02/2016"],
+    "tags": [],
+    "link": "http://2016.conf.rollingscopes.com/"
+  },
+  {
+    "name": "React.js Conf",
+    "city": "San Francisco",
+    "country": "United States of America",
+    "lat": 37.7552402,
+    "lng": -122.4274317,
+    "dates": ["22/02/2016", "23/02/2016"],
+    "tags": [],
+    "link": "http://conf.reactjs.com/"
+  },
+  {
+    "name": "FITC Amsterdam 2016",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.368800,
+    "lng": 4.900451,
+    "dates": ["22/02/2016", "23/02/2016"],
+    "tags": [],
+    "link": "http://fitc.ca/"
+  },
+  {
+    "name": "Mobile World Congress 2016",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.383951,
+    "lng": 2.177261,
+    "dates": ["22/02/2016", "23/02/2016", "24/02/2016", "25/02/2016"],
+    "tags": [],
+    "link": "http://www.mobileworldcongress.com/"
+  },
+  {
+    "name": "UX Riga 2016",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.947810,
+    "lng": 24.109929,
+    "dates": ["25/02/2016"],
+    "tags": [],
+    "link": "http://www.uxriga.lv"
+  },
+  {
+    "name": "2016 International Conference on Design Principles and Practices – A Common Ground Conference",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "lat": -22.908458,
+    "lng": -43.208054,
+    "dates": ["25/02/2016", "26/02/2016"],
+    "tags": [],
+    "link": "http://designprinciplesandpractices.com/"
+  },
+  {
+    "name": "Typoday 2016",
+    "city": "Bangalore",
+    "country": "India",
+    "lat": 12.980613,
+    "lng": 77.591063,
+    "dates": ["25/02/2016", "26/02/2016", "27/02/2016"],
+    "tags": [],
+    "link": "http://www.typoday.in"
+  },
+  {
+    "name": "VOXXED Days Vienna 2016",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.211449,
+    "lng": 16.373871,
+    "dates": ["29/02/2016", "01/03/2016"],
+    "tags": [],
+    "link": "https://voxxeddays.com/vienna16/"
+  },
+  {
+    "name": "Planning for a Higher Ed Website Redesign",
+    "city": "Cincinnati",
+    "country": "United States of America",
+    "lat": 39.104293,
+    "lng": -84.512946,
+    "dates": ["29/02/2016", "01/03/2016", "02/03/2016"],
+    "tags": [],
+    "link": "http://www.academicimpressions.com/conference/planning-higher-ed-website-redesign"
   }
 ]
-
