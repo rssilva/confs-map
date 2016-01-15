@@ -2,7 +2,7 @@
   {
     "name": "O’Reilly Design Conference",
     "city": "San Francisco",
-    "country": "United States",
+    "country": "United States of America",
     "lat": 37.7552402,
     "lng": -122.4274317,
     "dates": ["21/01/2016"],
@@ -52,7 +52,7 @@
   {
     "name": "PhoneGap Day US 2016",
     "city": "Lehi",
-    "country": "United States",
+    "country": "United States of America",
     "lat": 40.413345,
     "lng": -111.868541,
     "dates": ["28/01/2016", "29/01/2016"],
@@ -82,7 +82,7 @@
   {
     "name": "2016 UXDEVSummit Conference",
     "city": "Fort Lauderdale",
-    "country": "United States",
+    "country": "United States of America",
     "lat": 26.121985,
     "lng": -80.136586,
     "dates": ["04/02/2016", "05/02/2016", "06/02/2016"],
@@ -92,7 +92,7 @@
   {
     "name": "Owner Summit",
     "city": "Atlanta",
-    "country": "United States",
+    "country": "United States of America",
     "lat": 33.719673,
     "lng": -84.438468,
     "dates": ["08/02/2016", "09/02/2016"],
@@ -112,7 +112,7 @@
   {
     "name": "Forward 4 – Web Technology Summit",
     "city": "San Francisco",
-    "country": "United States",
+    "country": "United States of America",
     "lat": 37.7552402,
     "lng": -122.4274317,
     "dates": ["08/02/2016", "09/02/2016", "10/02/2016", "11/02/2016", "12/02/2016", "13/02/2016"],
@@ -122,7 +122,7 @@
   {
     "name": "ConveyUX 2016",
     "city": "Seattle",
-    "country": "United States",
+    "country": "United States of America",
     "lat": 47.605302,
     "lng": -122.331065,
     "dates": ["09/02/2016", "10/02/2016", "11/02/2016"],
